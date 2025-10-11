@@ -5,7 +5,7 @@
 来月から入社ですので、キャッチアップのためにもPHPについての学習時間も多くとる予定です。
 
 ## 10/1 (計7.3h)
-・PHP、Laravelについての学習
+- PHP、Laravelについての学習
 
 その他
 
@@ -13,20 +13,30 @@
 - PHPふりがなプログラミング
 
 ## 10/2 (計5.0h)
-・PHP、Laravelについての学習
+- PHP、Laravelについての学習
 
 その他
 
 - PHPふりがなプログラミング
 
 ## 10/5 (計3.6h)
-・PHP、Laravelについての学習
+- PHP、Laravelについての学習
 
 ## 10/6 (計5.4h)
-・PHP、Laravelについての学習
+- PHP、Laravelについての学習
 
 ## 10/7 (計2.0h)
-・PHP、Laravelについての学習
+- PHP、Laravelについての学習
 
 ## 10/9 (計5.8h)
-・PHP、Laravelについての学習
+- PHP、Laravelについての学習
+
+## 10/10 (計1.7h)
+- PHP、Laravelについての学習
+
+## 10/11 (計7.2h)
+- PHP、Laravelについての学習
+- 本リリース作業（検索）
+
+その他
+- スラスラ読めるJavaScript
